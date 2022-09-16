@@ -1,0 +1,18 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binaries from `go test -c`
+*.test
+
+# Others
+*.out
+build/
+vendor/
+
+# private settings
+domain.txt
+key.txt
